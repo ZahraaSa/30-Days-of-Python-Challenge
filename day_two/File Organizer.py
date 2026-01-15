@@ -1,8 +1,8 @@
 import os
 import shutil
 
-
-path = r"\Users\zahoraty\Downloads" 
+#put the path of the folder u need to orignize
+path = r"\Users\....\Downloads" 
 
 
 file_mapping = {
